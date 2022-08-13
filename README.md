@@ -21,3 +21,8 @@ Some Images of Website:
 ![Screenshot (348)](https://user-images.githubusercontent.com/108077892/184506967-3a8a795b-ba2e-435f-99ef-7743c5a96618.png)
 ![Screenshot (349)](https://user-images.githubusercontent.com/108077892/184506970-dda8543f-0b18-4b2a-9658-ff92bc528f0d.png)
 ![Screenshot (350)](https://user-images.githubusercontent.com/108077892/184506972-92c1085a-c573-4491-85c9-052b3e2e04c0.png)
+Primary Azure Technology : Web, Static Web Apps.
+
+Other Azure Technologies : App Service
+
+#Azure link:https://green-glacier-076e76300.1.azurestaticapps.net
